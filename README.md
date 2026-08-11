@@ -57,19 +57,19 @@ Soy un desarrollador de software enfocado en crear **aplicaciones web modernas, 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 Control Finanzas Inteligente</h3>
+      <h3 align="center">🤖 Bot Finanzas IA</h3>
       <p>Bot de Telegram de Finanzas potenciado con Inteligencia Artificial (Gemini) y un panel web en tiempo real alojado en Google Cloud Platform.</p>
       <p>
-        <a href="https://github.com/MartinMaldo592/control-finanzas-inteligente">
+        <a href="https://github.com/MartinMaldo592/bot-finanzas-ia">
           <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛍️ Tienda Blama 2026</h3>
-      <p>Plataforma de comercio electrónico (E-Commerce) moderna para gestión de tienda online, catálogo interactivo y procesamiento de pedidos.</p>
+      <h3 align="center">🛍️ Tienda Blama</h3>
+      <p>Plataforma de comercio electrónico (E-Commerce) moderna desarrollada en Next.js, Supabase y pasarela de pagos Culqi v4.</p>
       <p>
-        <a href="https://github.com/MartinMaldo592/Tienda-Blama-2026">
+        <a href="https://github.com/MartinMaldo592/tienda-blama">
           <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github" />
         </a>
       </p>
@@ -77,19 +77,19 @@ Soy un desarrollador de software enfocado en crear **aplicaciones web modernas, 
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📦 Proyecto Courier & Logística</h3>
-      <p>Sistema web de seguimiento, logística y envío de paquetes para la gestión eficiente de mensajería y distribución.</p>
+      <h3 align="center">📦 Sistema Courier & Logística</h3>
+      <p>Monorepo integral (Turborepo + Next.js 16 + React 19) de seguimiento y gestión de envíos courier e internacionales.</p>
       <p>
-        <a href="https://github.com/MartinMaldo592/PROYECTO-COURRIER">
+        <a href="https://github.com/MartinMaldo592/sistema-courier-logistica">
           <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🚌 Rutas Lima App</h3>
-      <p>Aplicación de movilidad y navegación urbana para consulta y optimización de rutas de transporte público en Lima.</p>
+      <h3 align="center">🚌 Optimizador Rutas Lima</h3>
+      <p>Aplicación web y PWA de optimización de rutas de transporte público y logística de última milla con Google Maps V2 API.</p>
       <p>
-        <a href="https://github.com/MartinMaldo592/RUTAS-LIMA-APP">
+        <a href="https://github.com/MartinMaldo592/optimizador-rutas-lima">
           <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github" />
         </a>
       </p>
